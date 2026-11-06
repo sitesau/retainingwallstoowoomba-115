@@ -1,0 +1,22 @@
+{
+  "wheel_id": 788,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-115",
+  "project": "retaining-wall-builders-toowoomba-checklist-d8e406b4dc1f28708da",
+  "parent_t1_ref": "retainingwallstoowoomba-157",
+  "node_role": "feeder",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall builders toowoomba checklist",
+  "intended_url": "https://sitesau.github.io/retainingwallstoowoomba-115/",
+  "tier": "T2",
+  "writeback_nonce": "d1033266b9a629c7",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-builders-toowoomba-common-mistakes-c7f3ff29e9566/",
+      "anchor": "https://sites-e470-2.web.app/retaining-wall-builders-toowoomba-common-mistakes-c7f3ff29e9566/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
